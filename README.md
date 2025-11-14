@@ -3,5 +3,6 @@
     <h1>My name is Bukonla</h1>
     <p>Welcome to my website!</p>
     <img src="https://content.codecademy.com/articlew/github-pages-via-web-app/happy-ice-cream.gif"/>
+    <p>I am happy to be learning how to code and build my website</p>
   </body>
 </html>
